@@ -1,5 +1,8 @@
 # AI policy
 
+[![Markdown Lint](https://github.com/zaccesss/ai-policy/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/ai-policy/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 This policy covers every contribution to my projects from people outside them: code, documentation, commits, issues, pull requests, comments, reviews and discussions. I keep it here in one place so every repository can point to it. It is also on [my site](https://isaacadjei.me/ai-policy).
 
 > [!IMPORTANT]
